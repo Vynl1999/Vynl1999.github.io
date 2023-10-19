@@ -44,9 +44,9 @@ Communications Officer @ Hamilton County Sherriff's Office
 * 
 
 Director of Online Operations @ 21st Century Church
-- 
-- 
+* 
+* 
 
 Account Manager @ Impact Group LLC
-- 
-- 
+* 
+* 
