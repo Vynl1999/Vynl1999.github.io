@@ -9,7 +9,7 @@ Six Sigma Black Belt Project Management Certification
 ### Projects
 **CPD Traffic Stop Analysis using Python:**
 *An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project.*
-/n
+<br>
 **Skills**
 * Python data manipulation using Pandas
 * Data visualization
@@ -17,7 +17,7 @@ Six Sigma Black Belt Project Management Certification
 
 **Bellabeat Data Exploration Using SQL**
 *Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.*
-/n
+<br>
 **Skills**
 * Variable/regex declaration
 * Groups & Joins
@@ -25,7 +25,7 @@ Six Sigma Black Belt Project Management Certification
 
 **NHL Skater Data Collection:**
 *Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.*
-/n
+<br>
 **Skils**
 * Webscraping
 * *For* & *While* loops
