@@ -1,13 +1,13 @@
 # Data Analyst
 
-### Education/Certifications
+## Education/Certifications
 BA Integrative Studies emph. Communication Studies, Psychology, Religious Studies
 Google Data Analytics Professional Certification
 IBM Full Stack Web Development Certification
 Six Sigma Black Belt Project Management Certification
 
-### Projects
-**CPD Traffic Stop Analysis using Python:**
+## Projects
+### CPD Traffic Stop Analysis using Python:
 *An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project.*
 
 
@@ -16,7 +16,7 @@ Six Sigma Black Belt Project Management Certification
 * Data visualization
 * Presentation of findings
 
-**Bellabeat Data Exploration Using SQL**
+### Bellabeat Data Exploration Using SQL
 *Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.*
 
 **Skills**
@@ -24,7 +24,7 @@ Six Sigma Black Belt Project Management Certification
 * Groups & Joins
 * Temp Tables
 
-**NHL Skater Data Collection:**
+### NHL Skater Data Collection:
 *Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.*
 
 **Skils**
@@ -39,7 +39,7 @@ Six Sigma Black Belt Project Management Certification
 * Data validation
 * Automation
 
-### Work Experience
+## Work Experience
 Fleet Coordinator @ Universal Logistics Holdings, LLC
 * 
 * 
