@@ -21,7 +21,7 @@ Database exploration of Bellabeat's smart devices, connecting multiple different
 * Groups & Joins
 * Temp Tables
 
-### [NHL Skater Data Collection:] (https://github.com/Vynl1999/Vynl1999.github.io/tree/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/NHL_Skater_Data)
+### [NHL Skater Data Collection:] (https://github.com/Vynl1999/Vynl1999.github.io/blob/9da5de22a18734f8732511fd598d9ef449cc5c83/Projects/NHL_Skater_Data/CapFriendly_DataCollection.ipynb)
 Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/><br/>
 **Skils**
 * Webscraping
