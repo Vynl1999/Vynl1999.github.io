@@ -1,8 +1,7 @@
 # Data Analyst
 
 ## Education & Certifications
-### BA Integrative Studies - Communication Studies, Psychology, Religious Studies
-Northern Kentucky University
+### BA Integrative Studies - Communication Studies, Psychology, Religious Studies - Northern Kentucky University
 * Google Data Analytics Professional Certification
 * IBM Full Stack Web Development Certification
 * Six Sigma Black Belt Project Management Certification
@@ -29,26 +28,26 @@ Python script created to demonstrate webscraping knowledge from collecting every
 * Loops
 * Exporting Data for future processing
 
-**Universal Settlement Verification Script:**
+### Universal Settlement Verification Script:**
 Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/>
 **Skills**
 * Data validation
 * Automation
 
 ## Work Experience
-Fleet Coordinator @ Universal Logistics Holdings, LLC<br/>
+### Fleet Coordinator @ Universal Logistics Holdings, LLC
 *September 2022 - Present*
 * Identified gaps and opportunities for improvements and implemented corrective
 action to maintain optimal fleet performance through analyzing driver dispatch and invoicing data.
 * Coordinated payroll, manpower projection and data entry through self-created python and excel tools for staff-wide accuracy and productivity applications
 
-Communications Officer @ Hamilton County Sherriff's Office<br/>
+### Communications Officer @ Hamilton County Sherriff's Office
 *August 2021 - September 2022*
 * Manned the RCIC, LEADs, and utility terminals/databases to query, analyze, and advise communication center employees and responders in the field in a time-sensitive setting
 * Operated dispatch radios, allocating managing 40-60 police and/or fire units at any time to ensure expedient response to 911 and non-emergency runs
 * Took caller information and documented vital details in call tracking and assignment system to then relay to first responders in the field
 
-Director of Online Operations @ 21st Century Church<br/>
+### Director of Online Operations @ 21st Century Church
 *December 2019 - August 2021*
 * Designed and help optimized the website and social media platforms for the organization
 * Expanded reach and membership by developing a strong online presence and ensuring all in-person technologies were functioning properly with staff and during services
