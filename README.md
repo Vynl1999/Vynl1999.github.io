@@ -1,10 +1,11 @@
 # Data Analyst
 
-## Education/Certifications
-BA Integrative Studies emph. Communication Studies, Psychology, Religious Studies
-Google Data Analytics Professional Certification
-IBM Full Stack Web Development Certification
-Six Sigma Black Belt Project Management Certification
+## Education & Certifications
+### BA Integrative Studies - Communication Studies, Psychology, Religious Studies
+Northern Kentucky University
+* Google Data Analytics Professional Certification
+* IBM Full Stack Web Development Certification
+* Six Sigma Black Belt Project Management Certification
 
 ## Projects
 ### CPD Traffic Stop Analysis using Python:
