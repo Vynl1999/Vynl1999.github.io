@@ -26,8 +26,8 @@ Database exploration of Bellabeat's smart devices, connecting multiple different
 Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/>
 **Skils**
 * Webscraping
-* *For* & *While* loops
-* Prepping data for export
+* Loops
+* Exporting Data for future processing
 
 **Universal Settlement Verification Script:**
 Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/>
