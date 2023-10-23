@@ -28,7 +28,7 @@ Python script created to demonstrate webscraping knowledge from collecting every
 * Loops
 * Exporting Data for future processing
 
-### Universal Settlement Verification Script:**
+### [Universal Settlement Verification Script:] (https://github.com/Vynl1999/Vynl1999.github.io/blob/9140995b303fdffda65bbab579a87f7a3fe31fb6/Projects/universal-discrepancy-search.ipynb)
 Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/><br/>
 **Skills**
 * Data validation
