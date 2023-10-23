@@ -8,28 +8,28 @@
 
 ## Projects
 ### [CPD Traffic Stop Analysis using Python:] (https://github.com/Vynl1999/Vynl1999.github.io/blob/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/cpd-traffic-stop-data-analysis.ipynb)
-An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project. <br/>
+An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project. <br/><br/>
 **Skills**
 * Python data manipulation using Pandas
 * Data visualization
 * Presentation of findings
 
 ### [Bellabeat Data Exploration Using SQL:] (https://github.com/Vynl1999/Vynl1999.github.io/blob/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/bellabeat_device_data_sql_analysis.sql)
-Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.<br/>
+Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.<br/><br/>
 **Skills**
 * Variable/regex declaration
 * Groups & Joins
 * Temp Tables
 
 ### [NHL Skater Data Collection:] (https://github.com/Vynl1999/Vynl1999.github.io/tree/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/NHL_Skater_Data)
-Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/>
+Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/><br/>
 **Skils**
 * Webscraping
 * Loops
 * Exporting Data for future processing
 
 ### Universal Settlement Verification Script:**
-Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/>
+Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/><br/>
 **Skills**
 * Data validation
 * Automation
