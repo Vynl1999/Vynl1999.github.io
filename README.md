@@ -7,21 +7,21 @@
 * Six Sigma Black Belt Project Management Certification
 
 ## Projects
-### CPD Traffic Stop Analysis using Python:
+### [CPD Traffic Stop Analysis using Python:] (https://github.com/Vynl1999/Vynl1999.github.io/blob/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/cpd-traffic-stop-data-analysis.ipynb)
 An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project. <br/>
 **Skills**
 * Python data manipulation using Pandas
 * Data visualization
 * Presentation of findings
 
-### Bellabeat Data Exploration Using SQL
+### [Bellabeat Data Exploration Using SQL:] (https://github.com/Vynl1999/Vynl1999.github.io/blob/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/bellabeat_device_data_sql_analysis.sql)
 Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.<br/>
 **Skills**
 * Variable/regex declaration
 * Groups & Joins
 * Temp Tables
 
-### NHL Skater Data Collection:
+### [NHL Skater Data Collection:] (https://github.com/Vynl1999/Vynl1999.github.io/tree/8b05d536947bcf1981f2b0deb825cdf468a465d7/Projects/NHL_Skater_Data)
 Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/>
 **Skils**
 * Webscraping
