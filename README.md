@@ -9,7 +9,7 @@
 ## Projects
 ### CPD Traffic Stop Analysis using Python:
 [View Project] (Projects/cpd-traffic-stop-data-analysis.ipynb)
-<br/><br/>An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project. <br/><br/>
+<br/><br/>An analysis project of traffic stops performed by the Cincinnati Police Department following the process from data cleaning to visualization using the data provided in the Stanford Open Policing Project. <br/>
 **Skills**
 * Python data manipulation using Pandas
 * Data visualization
@@ -17,7 +17,7 @@
 
 ### Bellabeat Data Exploration Using SQL:
 [View Project] (Projects/bellabeat_device_data_sql_analysis.sql)
-<br/><br/>Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.<br/><br/>
+<br/><br/>Database exploration of Bellabeat's smart devices, connecting multiple different tables while perfoming calculations and searching for trends that can be exported for later use.<br/>
 **Skills**
 * Variable/regex declaration
 * Groups & Joins
@@ -25,7 +25,7 @@
 
 ### NHL Skater Data Collection:
 [View Project] (Projects/NHL_Skater_Data/CapFriendly_DataCollection.ipynb)
-<br/><br/>Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/><br/>
+<br/><br/>Python script created to demonstrate webscraping knowledge from collecting every recorded stat for each NHL skater going back to the beining of the advanced stat era, exporting to csv for fantasy/predictive modeling use.<br/>
 **Skils**
 * Webscraping
 * Loops
@@ -33,7 +33,7 @@
 
 ### Universal Settlement Verification Script
 [View Project] (Projects/universal-discrepancy-search.ipynb)
-<br/><br/>Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/><br/>
+<br/><br/>Tool created for weekly application, comparing the report gathered from my own webscraping of driver dispatch terminal and corporate's settlement spreadsheet export to serve as a final check prior to paying contractors each week.<br/>
 **Skills**
 * Data validation
 * Automation
