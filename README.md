@@ -1,4 +1,4 @@
-# Data Analyst
+# Business Analyst
 
 ## Education & Certifications
 ### BA Integrative Studies - Communication Studies, Psychology, Religious Studies - Northern Kentucky University
