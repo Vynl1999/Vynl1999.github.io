@@ -1,5 +1,8 @@
 # Business Analyst
 
+## Objectives
+Dedicated and analytical professional with a strong background in data analysis and communication seeking a Business Analyst position to leverage expertise in optimizing business operations and decision-making processes.
+
 ## Education & Certifications
 ### BA Integrative Studies - Communication Studies, Psychology, Religious Studies - Northern Kentucky University
 * Google Data Analytics Professional Certification
