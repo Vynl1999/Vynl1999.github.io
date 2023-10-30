@@ -1,4 +1,4 @@
-# Business Analyst
+# Business & Data Analyst
 
 ## Objectives
 Dedicated and analytical professional with a strong background in data analysis and communication seeking a Business Analyst position to leverage expertise in optimizing business operations and decision-making processes.
@@ -44,20 +44,20 @@ Dedicated and analytical professional with a strong background in data analysis 
 ## Work Experience
 **Fleet Coordinator @ Universal Logistics Holdings, LLC** <br/>
 *September 2022 - Present*
-* Utilized data analysis to identify operational gaps and opportunities for improvement, implementing corrective actions to enhance fleet performance.
-* Developed Python and Excel tools to coordinate payroll, manpower projections, and data entry, resulting in increased staff-wide accuracy and productivity.
-* Collaborated with cross-functional teams to develop and implement data-driven strategies that optimized route planning and reduced operational costs, leading to a significant increase in overall fleet efficiency.
+*	Utilized data analytics to identify operational gaps and opportunities for improvement and implemented corrective actions to enhance fleet performance.
+*	Developed tools using Python and Excel to remove manual processes resulting in increased accuracy and productivity when processing contractor payroll, manpower projections, and data entry.
+*	Collaborated with cross-functional teams to develop and implement data-driven strategies optimizing route planning. Reduced overdue order from 750+ to same-day invoicing to same-day invoicing, resulting in a reduction of operating costs.
 
 
 **Communications Officer @ Hamilton County Sherriff's Office** <br/>
 *August 2021 - September 2022*
-* Operated mission-critical systems, including RCIC, LEADs, and relational databases, to analyze and provide real-time guidance to communication center employees and field responders.
-* Managed dispatch radios, overseeing 40-60 police and fire units for rapid 911 and non-emergency response.
-* Collected caller information and maintained a call tracking and assignment system, ensuring efficient communication with first responders.
+*	Queried criminal, BMV, and county utility relational databases to provide vital information and guidance to communication center employees and responders in the field.
+*	Managed dispatch radios, overseeing 40-60 police and fire units for rapid 911 and non-emergency response.
+*	Collected caller information and maintained a call tracking and assignment system, ensuring efficient communication with first responders. 
 
 **Director of Online Operations @ 21st Century Church** <br/>
 *December 2019 - August 2021*
-* Led a year-long staff-wide curriculum project to develop and maintain a high-quality curriculum, ensuring its proper release schedule.
-* Utilized project management skills to establish timelines, assign tasks to appropriate teams, and manage workflow effectively throughout the project.
-* Ensured the curriculum met the organization's objectives and contributed to its mission.
-* Highlight any specific accomplishments, such as increased engagement, successful implementation, or improved communication as a result of the project.
+*	Utilized Asana to establish timelines, assign tasks, and manage content development and studio production to maintain a weekly publishing schedule concurrent with in-person sermon delivery of 52-week long curriculum series to increase visibility of the church and their platform.
+*	Re-designed website and social media presence near 0 to 450+ active followers on Facebook and Instagram.
+*	Facilitated diversity and inclusion discussions among Cincinnati church leaders
+*	Managed project plans for various initiatives in the church’s non-profit consulting duties.
