@@ -7,6 +7,7 @@ Dedicated and analytical professional with a strong background in data analysis 
 ### BA Integrative Studies - Communication Studies, Psychology, Religious Studies - Northern Kentucky University
 * Google Data Analytics Professional Certification
 * IBM Full Stack Web Development Certification
+* Google IT Professional Certification
 * Six Sigma Black Belt Project Management Certification
 
 ## Projects
